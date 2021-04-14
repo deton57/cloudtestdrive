@@ -13,7 +13,7 @@ In this workshop we will use different open source tools for installation, devel
 
 1. Use open source 
 2. Utilize the advantage of OCI services
-3. Learn & Contribute for self and project improvement 
+3. Learn & contribute for self and project improvement 
 
 
 ### The flow (high level): ###
@@ -52,5 +52,8 @@ In order to achieve this flow, we will use different tools and technologies:
 
 Each tool can be a different section in the workshop, 
 and can have different tasks for learning how to use them and maintain the software development and release pipeline.
+
+
+### Intial Deployment - TBD...#
 
 For participating in this project, please email me: daniel.kaganovitch@oracle.com 
