@@ -9,14 +9,14 @@ In this workshop we will use different open source tools for installation, devel
 2. Each pillar of the workshop can be disscussed and demonstrated individually 
 
 
-# Guidelines: #
+### Guidelines: ###
 
 1. Use open source 
 2. Utilize the advantage of OCI services
 3. Learn & Contribute for self and project improvement 
 
 
-## The flow (high level): ##
+### The flow (high level): ###
 
 
 A Company that wants to release new features for their customers, has 2 groups of users: 
@@ -29,7 +29,7 @@ will connect to an administrator panel in the Web App, and will select one of th
 Only the desired group of users will receive the new feature. 
 In order to achieve this flow, we will use different tools and technologies: 
 
-## Tech and tools: ##
+### Tech and tools: ###
 
 1. Git Repository - for the application source code.
 2. Docker & Oracle Registry - all the app components will be based on dockers and the dockers will be stored in OCIR.
@@ -48,7 +48,7 @@ In order to achieve this flow, we will use different tools and technologies:
 15. Logging - we will use centralized logging such as: Loki/Elastic Search or others. 
 *Optional - Ansible - for configuration. 
 
-# Note - The mentioned tools are not a must, we can use multiple tools or others tools, if you have better suggestion feel free to add them #
+### Note - The mentioned tools are not a must, we can use multiple tools or others tools, if you have better suggestion feel free to add them ###
 
 Each tool can be a different section in the workshop, 
 and can have different tasks for learning how to use them and maintain the software development and release pipeline.
